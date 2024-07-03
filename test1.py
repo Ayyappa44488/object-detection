@@ -27,6 +27,7 @@ category_synonyms = {
     # Add more categories with their synonyms as needed
 }
 
+
 # Create a reverse mapping from synonym to main category
 synonym_to_category = {}
 for category, synonyms in category_synonyms.items():
